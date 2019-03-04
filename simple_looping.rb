@@ -30,6 +30,8 @@ end
 def while_iterator(number_of_times)
   # code your solution here using the "while" keyword
   # hint: user a counter to tell the while loop when to stop!
+  counter = 0
+  while
   phrase = "Welcome to Flatiron School's Web Development Course!"
   
 end
